@@ -9,6 +9,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/joezhao888",
     twitter: "",
     github: "https://github.com/saloushe",
+    resume: "/JonathanZhaoJul2026.pdf",
   },
   aboutMe:
     "I'm a Computer Science & Engineering new grad from MIT (June 2026) who likes building systems from the ground up — databases, ML internals, and full-stack products — where the hard part is the engineering, not the wrapper. I built a relational database engine in Go (GoDB) with 2PL transactions and a cost-based query optimizer, dug into model internals through BERT fine-tuning and sparse-autoencoder interpretability, and shipped production Python at the Simons Electron Microscopy Center and Duet. Right now I'm rebuilding WaitLess on a production stack (Postgres/PostGIS + Redis) to go deeper on the infrastructure. I'm looking for new-grad software engineering roles — open to NYC and remote, and happy to relocate for the right team.",
